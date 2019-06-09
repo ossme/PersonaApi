@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personas.Services.Api", "PersonasApi\Personas.Services.Api.csproj", "{C95D6766-06CA-4416-84F5-68941B5BE113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personas.Services.Dtos", "Personas.Services.Dtos\Personas.Services.Dtos.csproj", "{D814640B-EA27-4E8D-BB39-03D67557295D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personas.Dal", "Personas.Dal\Personas.Dal.csproj", "{D88ABA5A-8096-4370-B80E-44C51B6E2B69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95D6766-06CA-4416-84F5-68941B5BE113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95D6766-06CA-4416-84F5-68941B5BE113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95D6766-06CA-4416-84F5-68941B5BE113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95D6766-06CA-4416-84F5-68941B5BE113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D814640B-EA27-4E8D-BB39-03D67557295D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D814640B-EA27-4E8D-BB39-03D67557295D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D814640B-EA27-4E8D-BB39-03D67557295D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D814640B-EA27-4E8D-BB39-03D67557295D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88ABA5A-8096-4370-B80E-44C51B6E2B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88ABA5A-8096-4370-B80E-44C51B6E2B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88ABA5A-8096-4370-B80E-44C51B6E2B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88ABA5A-8096-4370-B80E-44C51B6E2B69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
